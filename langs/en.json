@@ -1,0 +1,17 @@
+{
+    "btn": {
+        "purchases": "purchases"
+    },
+    "header": {
+        "connect_wallet": "Connect Wallet"
+    },
+    "home": {
+        "title":  "LIVE GAMING"
+    },
+    "game": {
+        "pool_prize": "Pool Prize",
+        "time_remain_desc": "Time remaining to add your choice numbers",
+        "winner_desc":"One winner will be randomly picked. Winner will also win a NFT if Pool is above USDT 500 or equivalent in value.",
+        "terms": "I agree, terms and conditions apply, as a participant of the game."
+    }
+}

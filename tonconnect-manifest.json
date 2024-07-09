@@ -1,0 +1,7 @@
+{
+    "url": "http://localhost:5000",                      
+    "name": "ipaynow-local",               
+    "iconUrl": "https://ipaynow.io/favicon.png",     
+    "termsOfUseUrl": "https://ipaynow.io/terms", 
+    "privacyPolicyUrl": "https://ipaynow.io/privacy-policy"
+}
